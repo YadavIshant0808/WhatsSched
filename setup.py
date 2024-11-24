@@ -20,4 +20,5 @@ setup(
     ],
     python_requires=">=3.6",
     license="MIT",  # Change to your chosen license
+
 )
