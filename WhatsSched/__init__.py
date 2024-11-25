@@ -7,6 +7,7 @@ License: MIT
 
 __version__ = "1.0.0"
 __author__ = "Ishant Yadav"
+__license__ = "MIT"
 
 # Import the main function
-from .WhatsSched import send_whatsapp_message
+from .main import send_whatsapp_message
